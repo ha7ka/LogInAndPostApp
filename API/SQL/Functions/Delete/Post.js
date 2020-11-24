@@ -1,0 +1,3 @@
+/**
+ * Delete Posts from DB
+ */

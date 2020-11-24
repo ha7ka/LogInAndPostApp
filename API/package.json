@@ -1,0 +1,19 @@
+{
+  "name": "yinzcam",
+  "version": "1.0.0",
+  "description": "App for the YinzCam Assesment",
+  "main": "YinzCam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramandeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5"
+  }
+}
